@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Faruqola-srx
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
+- 👀 I’m a frontend developer
+- 🌱 I’m currently javascript
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me faruqolamidr142@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me faruqolamide142@gmail.com
 
 <!---
 Faruqola-srx/Faruqola-srx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
