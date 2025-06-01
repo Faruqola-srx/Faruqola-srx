@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faruqola-srx
 - 👀 I’m a frontend developer
-- 🌱 I’m currently javascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me faruqolamide142@gmail.com
 
